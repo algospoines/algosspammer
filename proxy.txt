@@ -1,4 +1,1 @@
-buraya eklediğiniz proxyler https destekli 
-olmak zorunda aksi takdirde proxy calışmaz
-proxy olmadanda iş yapar fakat proxy 2 kat
-etki artırır
+Proxy Mütləqdir.Proxy olmasa islemez!
